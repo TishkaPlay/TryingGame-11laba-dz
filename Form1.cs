@@ -62,6 +62,5 @@ namespace TryingGame
         {
             Application.Restart();
         }
-
     }
 }
